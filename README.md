@@ -4,9 +4,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/Nikhil24079/Sales-Finance-Report-for-FMCG-/blob/main/Sales%20and%20Finance%20Analytics%20of%20FMCG.pdf)_
+    **1.** Create a _[customer performance report](https://github.com/Nikhil24079/Finance-Sales-Report-for-FMCG-/blob/main/Finance%20%26%20Sales%20Analytics%20of%20FMCG.pdf)_
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Nikhil24079/Sales-Finance-Report-for-FMCG-/blob/main/Sales%20and%20Finance%20Analytics%20of%20FMCG.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Nikhil24079/Finance-Sales-Report-for-FMCG-/blob/main/Finance%20%26%20Sales%20Analytics%20of%20FMCG.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
